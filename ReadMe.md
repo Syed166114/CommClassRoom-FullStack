@@ -1,4 +1,4 @@
-# Community Class Room
+# unity Class Room
 
 ## Intro
 
@@ -56,4 +56,4 @@
     - Change Password
   - Admin Settings
   - Admin User Management
-  - Admin Course Management
+  - Admin Course Manageme
